@@ -2,9 +2,10 @@
 
 
 Projeto simples criado nas aulas de analista de dados 
+-
 
 Criado por: Renato Vasconcelos
-----------------------------------------------------------
+-
 
                                                            
                                                               
@@ -27,5 +28,5 @@ chmod +x calculadora.py - permissão para executar o arquivo
 execute o arquivo exec_calc.sh Para executar o arquivo      
  basta digitar ./exec_calc.sh ou caminho completo                               
 siga os passos apresentados na tela use a vontade           
--------------------------------------------------------------
+
 
